@@ -2,4 +2,4 @@
 
 author:naoxof
 
-plaese run this code in playground
+please run this code in playground
